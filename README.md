@@ -6,6 +6,10 @@ I'm is **Computer Science Student** at [Umsida](https://www.umsida.ac.id/).
 
   <a href="https://www.linkedin.com/in/aldorr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/aldoreramadhan/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  
+Mobile Framework :
+
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 <p align="left">
 <a href="https://github.com/aldoreghan">
