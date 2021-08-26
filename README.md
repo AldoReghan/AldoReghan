@@ -2,7 +2,7 @@
 
 My name is **Aldo Reghan Ramadhan**
 
-i'm is **Computer Science Student** at [Umsida](https://www.umsida.ac.id/)..
+**Computer Science Student** at [Umsida](https://www.umsida.ac.id/)..
 
 :iphone: **Junior Mobile Programmer**
 
