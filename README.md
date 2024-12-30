@@ -4,7 +4,8 @@ My name is **Aldo Reghan Ramadhan**
 
 **Computer Science Student** at [Umsida](https://www.umsida.ac.id/)..
 
-:iphone: **Junior Mobile Programmer**
+:iphone: **Junior Mobile Programmer** <br>
+:computer: **Junior Pentester**
 
 Social Media :
 
